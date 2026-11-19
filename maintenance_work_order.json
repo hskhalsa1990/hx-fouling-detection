@@ -1,0 +1,12 @@
+{
+  "work_order_id": "WO-HX-FOUL-001",
+  "asset": "ShellTube-A",
+  "created": "2026-11-18T17:14:09.722869Z",
+  "priority": "P2",
+  "reason": "Health index in WATCH band; fouling rate elevated",
+  "recommended_action": "Schedule chemical clean within 30 days",
+  "current_Rf": 0.0001221233771944,
+  "Rf_crit": 0.00018,
+  "estimated_downtime_h": 18,
+  "estimated_cost_usd": 6030
+}

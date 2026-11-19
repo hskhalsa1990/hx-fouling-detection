@@ -1,0 +1,11 @@
+Service,Rf_m2K_W,Rf_ft2hF_Btu
+Sea water ≤50C,9e-05,0.00051102
+Sea water >50C,0.00018,0.00102204
+Cooling tower treated,0.00018,0.00102204
+Cooling tower untreated,0.00035,0.0019873
+River water,0.00035,0.0019873
+Fuel oil light,0.00035,0.0019873
+Fuel oil heavy,0.00088,0.00499664
+Crude oil,0.00035,0.0019873
+Steam (clean),9e-05,0.00051102
+Air / process gas,0.00035,0.0019873

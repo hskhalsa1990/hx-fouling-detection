@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>HX Fouling Twin Dashboard</title>
+<style>
+body { font-family: system-ui, sans-serif; margin: 24px; background: #0f172a; color: #e2e8f0; }
+.card { background: #1e293b; border-radius: 12px; padding: 16px 20px; margin-bottom: 16px; }
+.h { font-size: 1.4rem; font-weight: 700; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; }
+.kpi { background: #334155; border-radius: 8px; padding: 12px; }
+.kpi .v { font-size: 1.5rem; font-weight: 700; }
+.RED { color: #f87171; } .YELLOW { color: #fbbf24; } .GREEN { color: #4ade80; }
+img { max-width: 100%; border-radius: 8px; margin-top: 8px; }
+</style></head><body>
+<h1>Heat Exchanger Fouling Digital Twin</h1>
+<div class="card"><div class="h">Status: <span class="RED">RED</span></div>
+<div class="grid">
+<div class="kpi"><div>Rf</div><div class="v">1.22e-04</div></div>
+<div class="kpi"><div>Rf_CRIT</div><div class="v">1.80e-04</div></div>
+<div class="kpi"><div>Health Index</div><div class="v">48</div></div>
+<div class="kpi"><div>Q now / design</div><div class="v">609 / 680 kW</div></div>
+</div></div>
+<div class="card"><div class="h">Key charts</div>
+<p>Open PNG files in this folder: health index, forecast, fleet, twin alignment, mitigation levers.</p>
+</div>
+<p style="opacity:.7">Generated 2026-11-18 19:16 UTC · flat project dashboard</p>
+</body></html>

@@ -1,0 +1,9 @@
+Metric,Value
+Model R²,0.9128
+Model MAE (m²K/W),4.13e-05
+Current Rf,1.22e-04
+Critical Rf,1.80e-04
+Health Index,48.3
+RUL (days),705
+Anomalies detected,5
+Final efficiency %,87.9

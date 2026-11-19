@@ -1,0 +1,19 @@
+{
+  "generated": "2026-11-18T17:11:52.728064Z",
+  "asset": "ShellTube-A",
+  "Rf_current": 0.0001221233771944,
+  "Rf_crit": 0.00018,
+  "deposit_thickness_um": 146.54805263328,
+  "k_deposit_W_mK": 1.2,
+  "drift_days_flagged": 66,
+  "status": "HEALTHY",
+  "features": {
+    "forecast": true,
+    "whatif": true,
+    "fleet": true,
+    "digital_twin": true,
+    "deposit_thickness": true,
+    "drift_detection": true,
+    "cleaning_verification": true
+  }
+}

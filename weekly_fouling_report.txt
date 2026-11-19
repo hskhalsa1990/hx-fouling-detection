@@ -1,0 +1,16 @@
+============================================================
+WEEKLY FOULING TWIN REPORT
+Generated: 2026-11-18 17:23 UTC
+============================================================
+Period: 2026-06-23 → 2026-06-29
+Rf mean:     1.069e-04  m2K/W
+Rf end:      1.221e-04  m2K/W
+Rf critical: 1.800e-04  m2K/W
+U mean:      862.4  W/m2K
+Efficiency:  89.4 %
+Health idx:  52.0 / 100
+Cum energy loss (all history): 167208 kWh
+Cum cost (all history):        $20065
+Current status: RED
+ACTION: Schedule cleaning — health in RED band
+============================================================
